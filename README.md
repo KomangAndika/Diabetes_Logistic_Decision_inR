@@ -1,3 +1,4 @@
+## Wazzuh
 Welcome to my first project in R! In this project, I explore the fascinating world of predictive modeling for diabetes diagnosis using logistic regression. As a beginner in R programming, I've embarked on this journey to not only gain hands-on experience but also contribute to the field of healthcare analytics.
 
 ## Project Overview
@@ -9,3 +10,5 @@ Logistic Regression Modeling: Employing the logistic regression algorithm to bui
 R Programming: This project serves as my introduction to R programming, showcasing the process of data manipulation, exploration, and analysis.
 
 Dataset: Utilizing a relevant dataset that includes a variety of features such as glucose levels, BMI, age, and more to make accurate predictions.
+
+To check with better view: https://rpubs.com/Komang_Andika/Diabetes
